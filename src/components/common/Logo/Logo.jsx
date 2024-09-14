@@ -6,7 +6,7 @@ const Logo = ({ variant }) => {
   return (
     <a
       className={`${styles.logo} ${styles[variant]}`}
-      href={'/project-test/'}
+      href={'/proiect-react/'}
     >
       <svg>
         <use href={`${icons}#icon-logo`}></use>
